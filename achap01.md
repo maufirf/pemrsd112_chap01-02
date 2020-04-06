@@ -21,7 +21,7 @@ Perbedaan di antara sinyal analog dan sinyal digital terdapat pada aspek kuantis
 
 ---
 
-## _3. Proses sinyal pada soal dengan menggunakan MATLAB jika diinginkan!_
+## _3. Proses sinyal pada soal dengan menggunakan MATLAB!_
 
 Saya tidak menggunakan MATLAB karena saya tidak mampu membeli MATLAB dan kampus tidak menyediakan MATLAB untuk mahasiswa di paket perangkat lunak mahasiswa yang didapatkan dari PUSTIKOM. Karenanya, **saya akan menggunakan Octave**.
 
