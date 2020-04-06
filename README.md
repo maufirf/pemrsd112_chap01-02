@@ -16,7 +16,7 @@ There are some important files that is getting the spotlight as the answer files
 - `achap01_no03.bat` and `achap01_no03.bash` are executable files respectively for windows and \*NIX-like OS to run `achap_no03.m`, assuming you have complete dependencies and settings.
 - `achap02.md` is the markdown file with all answers regarding to the questions on page 20.
 - `achap02_no04.m` is the MATLAB/Octave M-file to accompany the answer for question number 4 for the afromentioned chapter.
-- `achap02_no04.bat` and `achap02_no04.bash` are executable files respectively for windows and \*NIX-like OS to run `achap_no03.m`, assuming you have complete dependencies and settings.
+- `achap02_no04.bat` and `achap02_no04.bash` are executable files respectively for windows and \*NIX-like OS to run `achap02_no04.m`, assuming you have complete dependencies and settings.
 - `assignment_files/modul-pengolahan-sinyal.pdf` is the e-book where all the task based upon.
 - `dump/` are the folder containing images used in `achap01.md` and `achap02.md`, all in the format of `.png`.
 
